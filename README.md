@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushi-228
 - 👀 I’m interested in web dev, ML, deep learning. i really enjoy working with python
 - 🌱 I’m currently learning angular.js
-- 💞️ I’m looking to collaborate on pthon projects
+- 💞️ 
 - 📫 How to reach me a.aayushi228@gmail.com
 
 <!---
